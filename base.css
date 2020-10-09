@@ -8,7 +8,7 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
 body {
 	background: #ffffff;
 	color: #434343;
-	font-size: 18px;
+	font-size: 36px;
 	font-family: "微软雅黑";
 	position:relative;
 }
@@ -19,7 +19,7 @@ p {
 }
 a {
 	color: #434343;
-	font-size: 18px;
+	font-size: 36px;
 	font-family: "微软雅黑";
 	text-decoration: none;
 	cursor: pointer;
